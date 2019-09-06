@@ -33,6 +33,7 @@ This project follows [semantic versioning](https://semver.org/). We do not hesit
 **Breaking History:**
 
 Current Version: ![version](https://img.shields.io/npm/v/react-native-webview.svg)
+- 8.0.1 Fortest before fix
 
 - [7.0.1](https://github.com/react-native-community/react-native-webview/releases/tag/v7.0.1) - Removed UIWebView
 
